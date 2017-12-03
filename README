@@ -1,0 +1,14 @@
+#Coding Challenge
+
+## This program is build in Java, an apache maven project which uses a library Jsoup
+
+###Requirements
+
+Java (download instructions at http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+Maven (download http://maven.apache.org/download.cgi)
+##Usage
+
+1) Update the paths for jdk and maven
+2) Once you download the branch, please move to main directory
+3) mvn clean package , once this is successfully build you should see a target directory under the main directory which has the code-challenge-jar-with-dependencies.jar
+4) java -jar target/code-challenge-jar-with-dependencies.jar web.mit.edu

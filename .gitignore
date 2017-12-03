@@ -1,6 +1,7 @@
 
 # Created by https://www.gitignore.io/api/java,eclipse,intellij+iml
-
+1
+target/
 ### Eclipse ###
 .idea/
 .metadata
